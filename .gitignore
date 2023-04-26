@@ -149,6 +149,10 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
+# Large data files
+.parquet
+.pickle
+
 # Cython debug symbols
 cython_debug/
 
